@@ -8,4 +8,4 @@
 
 &nbsp;
 
-:link: https://dmssantos.github.io/Jogo-Dino/
+:link: https://dmssantos.github.io/jogo-dino/
